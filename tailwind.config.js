@@ -10,6 +10,9 @@ export default {
 
         RedHatDisplay: ['Red Hat Display', 'sans-serif']
       },
+      screens: {
+        'custom': { 'max': '360px' }
+      },
     },
   },
   plugins: [],
